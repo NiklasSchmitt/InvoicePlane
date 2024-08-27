@@ -7,11 +7,11 @@ Remove this first paragraph but please keep the following checklist even if it's
 -->
 
 ## Related Issue
-<!--- Please make sure there's an accomanying issue in the issues list -->
+<!--- Please make sure there's an accompanying issue in the issues list -->
 <!--- Please try and link to an accompanying thread on the forums, if there is one -->
 
 ## Motivation and Context
-<!--- Why would you like this change? Does it solve a provlem or is it an improvement? -->
+<!--- Why would you like this change? Does it solve a problem or is it an improvement? -->
 <!--- If it fixes an open issue, please link to the issue here. -->
 
 ## Screenshots (if appropriate):
